@@ -1,16 +1,15 @@
-## Hi there 👋
+# Mayuri Chatterjee
 
-<!--
-**chatterjeemayuri-prog/chatterjeemayuri-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist with strong expertise in statistical modeling, predictive analytics, and machine learning.
 
-Here are some ideas to get you started:
+## Technical Skills
+Python | R | SQL | Machine Learning | Statistical Modeling | Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Predictive Modeling
+- Customer Analytics
+- Statistical Inference
+- Machine Learning
+
+## Current Project
+Customer Churn Prediction using Python and Machine Learning.
