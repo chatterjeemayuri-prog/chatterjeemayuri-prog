@@ -1,6 +1,6 @@
 # Mayuri Chatterjee
 
-PhD Researcher in Statistics at Stockholm University with experience in statistical modelling, machine learning, survival analysis, longitudinal data analysis, and predictive analytics. Interested in applying quantitative and computational methods to healthcare, clinical research, and complex real-world data.
+PhD Researcher in Statistics at Stockholm University with experience in statistical modelling, machine learning, predictive analytics, and quantitative research using complex real-world datasets. Interested in applying data-driven methods to problems in healthcare, social science, behavioural research, and applied analytics.
 
 # Technical Skills
 
@@ -9,35 +9,43 @@ PhD Researcher in Statistics at Stockholm University with experience in statisti
 - R
 - SQL
 
-## Statistical & Machine Learning Methods
+## Statistical & Quantitative Methods
 - Statistical Modelling
 - Predictive Analytics
+- Regression Analysis
 - Survival Analysis
 - Longitudinal Data Analysis
 - Mixed-Effects Models
-- Regression Modelling
-- Machine Learning
+- Econometric and Observational Data Analysis
+- Hypothesis Testing
 - Model Validation
 - Cross-Validation
+
+## Machine Learning
+- Supervised Learning
+- Classification and Regression Models
 - Ensemble Methods
+- Penalized Regression
+- Predictive Modelling
+- Interpretable Machine Learning
 
 ## Data Analysis & Research
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis
 - Reproducible Research Workflows
-- Clinical and Observational Data Analysis
+- Structured and Longitudinal Data Analysis
 - Data Visualization
 
 # Research Interests
 
-- Predictive Modelling
-- Clinical and Health Data Science
-- Survival Analysis
-- Longitudinal Data Analysis
 - Statistical Learning
-- Machine Learning for Healthcare
-- Epidemiology and Biostatistics
-- Interpretable Machine Learning
+- Predictive Modelling
+- Machine Learning
+- Quantitative Social Science
+- Behavioural and Economic Data Analysis
+- Healthcare and Clinical Analytics
+- Longitudinal and Survival Modelling
+- Reproducible Data Science
 
 # Current Projects
 
@@ -49,6 +57,9 @@ Analysis of repeated-measures data using mixed-effects modelling techniques to s
 
 ## Customer Churn Prediction
 Predictive modelling project using machine learning techniques in Python to identify customers at risk of churn and support retention analytics.
+
+## Regression Model Diagnostics in R
+Implementation of regression diagnostics, residual analysis, and model validation workflows for statistical modelling and inference.
 
 # Tools & Technologies
 
@@ -67,5 +78,6 @@ Predictive modelling project using machine learning techniques in Python to iden
 Currently interested in research and applications at the intersection of:
 - statistical modelling,
 - machine learning,
+- quantitative social science,
 - healthcare analytics,
-- and reproducible quantitative research.
+- and reproducible computational research.
