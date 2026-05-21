@@ -1,7 +1,5 @@
 # Mayuri Chatterjee
 
-# Mayuri Chatterjee
-
 PhD Researcher in Statistics at Stockholm University working on statistical modelling, mixed-effects models, influence diagnostics, survival analysis, and observational healthcare data analysis. Interested in applied biostatistics, longitudinal modelling, and interpretable statistical learning using real-world datasets.
 
 # Technical Skills
