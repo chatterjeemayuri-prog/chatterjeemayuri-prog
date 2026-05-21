@@ -38,8 +38,6 @@ PhD Researcher in Statistics at Stockholm University working on statistical mode
 
 # Selected Projects
 
-# Selected Projects
-
 ## Survival Analysis of Clinical Outcomes
 
 Repository: https://github.com/chatterjeemayuri-prog/clinical-survival-prediction
