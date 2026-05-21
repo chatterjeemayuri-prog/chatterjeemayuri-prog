@@ -36,17 +36,6 @@ PhD Researcher in Statistics at Stockholm University with experience in statisti
 - Structured and Longitudinal Data Analysis
 - Data Visualization
 
-# Research Interests
-
-- Statistical Learning
-- Predictive Modelling
-- Machine Learning
-- Quantitative Social Science
-- Behavioural and Economic Data Analysis
-- Healthcare and Clinical Analytics
-- Longitudinal and Survival Modelling
-- Reproducible Data Science
-
 # Selected Projects
 
 ## Survival Analysis of Clinical Outcomes
