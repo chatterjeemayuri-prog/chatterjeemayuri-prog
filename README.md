@@ -47,19 +47,19 @@ PhD Researcher in Statistics at Stockholm University with experience in statisti
 - Longitudinal and Survival Modelling
 - Reproducible Data Science
 
-# Current Projects
+# Selected Projects
 
-## Clinical Survival Prediction Using Statistical and Machine Learning Approaches
-Development of survival prediction workflows using Cox proportional hazards models, penalized regression, and random survival forests for clinical time-to-event data analysis in R.
+## Survival Analysis of Clinical Outcomes
+Time-to-event modelling using Kaplan–Meier estimation, Cox proportional hazards models, penalized Cox regression, and random survival forests for censored clinical data analysis in R.
 
 ## Longitudinal Data Analysis Using Mixed-Effects Models
-Analysis of repeated-measures data using mixed-effects modelling techniques to study subject-specific trajectories and longitudinal variability.
+Analysis of repeated-measures data using mixed-effects models with random intercepts and random slopes for longitudinal healthcare-style datasets.
 
-## Customer Churn Prediction
-Predictive modelling project using machine learning techniques in Python to identify customers at risk of churn and support retention analytics.
+## Smoking and Hypertension Analysis
+Observational healthcare data analysis using logistic regression and propensity score weighting to study associations between smoking behaviour and hypertension risk.
 
-## Regression Model Diagnostics in R
-Implementation of regression diagnostics, residual analysis, and model validation workflows for statistical modelling and inference.
+## Regression Model Diagnostics
+Implementation of regression diagnostics, residual analysis, multicollinearity assessment, and influence diagnostics for statistical modelling workflows in R.
 
 # Tools & Technologies
 
