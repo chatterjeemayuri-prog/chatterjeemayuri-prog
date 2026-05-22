@@ -40,25 +40,17 @@ PhD Researcher in Statistics at Stockholm University working on statistical mode
 
 ## Survival Analysis of Clinical Outcomes
 
-Repository: https://github.com/chatterjeemayuri-prog/clinical-survival-prediction
-
 Time-to-event modelling using Kaplan–Meier estimation, Cox proportional hazards models, penalized Cox regression, and random survival forests for censored clinical data analysis in R.
 
 ## Longitudinal Data Analysis Using Mixed-Effects Models
-
-Repository: https://github.com/chatterjeemayuri-prog/longitudinal-mixed-effects-project
 
 Analysis of repeated-measures data using mixed-effects models with random intercepts and random slopes for longitudinal healthcare-style datasets.
 
 ## Smoking and Hypertension Analysis
 
-Repository: https://github.com/chatterjeemayuri-prog/nhanes-smoking-project
-
 Observational healthcare data analysis using logistic regression and propensity score weighting to study associations between smoking behaviour and hypertension risk.
 
 ## Regression Model Diagnostics
-
-Repository: https://github.com/chatterjeemayuri-prog/regression-diagnostics-r
 
 Implementation of regression diagnostics, residual analysis, multicollinearity assessment, and influence diagnostics for statistical modelling workflows in R.
 
